@@ -1,0 +1,11 @@
+Computer Name,Operating System Version,Operating System Name,Total RAM Unit,Total RAM,Serial Number,Serial Number Type,Processor Type,Optical Drive,Number of Processors,Model,Make,MAC Address,Network Adapter Name,Last Inventory Update,IP Address,File System Name,File System Type
+Adam's MacBook Air2,10.10.0,Mac OS/X,GB,8,CA40F89460A1,standard,Intel Core i7,,2,MacBook Air (13-inch Mid 2012),Apple,22:22:22:22:22:00,en0,12/27/19 6:31,64.64.64.01,/dev/disk0s2,hfs
+ADMailWest12,10.0.17627,Windows 2000 Server,GB,16,ABC111,Bios,GenuineIntel,,2,PowerEdge T640,Dell,22:22:22:22:22:01,Local Area Connection,12/26/19 9:03,64.64.64.02,C:\,fat
+ADMailWest2,10.0.17627,Windows 2000 Server,GB,16,ABC112,Bios,GenuineIntel,,2,PowerEdge T640,Dell,22:22:22:22:22:02,Local Area Connection,12/26/19 9:03,64.64.64.03,C:\,fat
+Beck's MacBook Pro,10.10.0,Mac OS/X,GB,4,CA40F89460A2,standard,Intel Core i5,MATSHITA DVD-R   UJ-8A8,2,13-inch MacBook Pro (Mid 2012),Apple,22:22:22:22:22:03,en0,12/27/19 6:31,64.64.64.04,/dev/disk0s2,hfs
+John's MacBook Pro,10.10.0,Mac OS/X,GB,8,CA40F89460A3,standard,Intel Core i5,MATSHITA DVD-R   UJ-898,2,13-inch MacBook Pro (2011),Apple,22:22:22:22:22:04,en0,12/27/19 6:31,64.64.64.05,/dev/disk0s2,hfs
+Linux Server 123,2.6.9-22.0.1.Elsmp,Linux Red Hat,GB,16,XYZ123,System,Intel,,4,PowerEdge R940,Dell,22:22:22:22:22:05,eth0,12/27/19 12:44,64.64.64.06,/dev/xvda1,ext4
+Anna's MacBook Pro,10.9.5,Mac OS/X,GB,8,CA40F89460A4,standard,Intel Core i5,MATSHITA DVD-R   UJ-8A8,2,13-inch MacBook Pro (2011),Apple,22:22:22:22:22:06,en0,12/26/19 22:10,64.64.64.07,/dev/disk0s2,hfs
+Peter's mac,10.9.5,Mac OS/X,GB,16,CA40F89460A5,standard,Intel Core i5,,2,13-inch Retina MacBook Pro (Late 2013),Apple,22:22:22:22:22:07,en0,12/27/19 6:31,64.64.64.08,/dev/disk0s2,hfs
+Marie's laptop,10.9.4,Mac OS/X,GB,16,CA40F89460A6,standard,Intel Core i5,MATSHITA DVD-R   UJ-8A8,2,13-inch MacBook Pro (2011),Apple,22:22:22:22:22:08,en0,12/27/19 6:31,64.64.64.09,/dev/disk0s2,hfs
+Bill's macbook,10.10.0,Mac OS/X,GB,16,CA40F89460A7,standard,Intel Core i5,,2,13-inch Retina MacBook Pro (Late 2013),Apple,22:22:22:22:22:09,en0,12/27/19 6:31,64.64.64.10,/dev/disk0s2,hfs
